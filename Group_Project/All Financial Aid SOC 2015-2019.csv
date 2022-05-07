@@ -1,0 +1,267 @@
+﻿Subcategory,Year,Aid Category,Derived Unit,Restrict,student level (group),year comp,Years to Display,Category,Enroll,Stdnt Lvl,student level,Average Amount,Percent of Financial Aid,Percent of Students Awarded,Recipients,Total Amount Awarded
+SOC,2018-19,All Aid,UW-Whitewater,True,Graduate,True,2018,Students of Color,244,3,3,$16K,2%,55%,133,$2M
+Non-SOC,2018-19,All Aid,UW-Whitewater,True,Graduate,True,2018,Students of Color,1544,3,3,$13K,7%,36%,560,$7M
+SOC,2018-19,All Aid,UW-Whitewater,True,Undergraduate,True,2018,Students of Color,2402,1,1,$12K,21%,74%,"1,770",$21M
+Non-SOC,2018-19,All Aid,UW-Whitewater,True,Undergraduate,True,2018,Students of Color,11002,1,1,$10K,70%,64%,"6,998",$70M
+SOC,2018-19,All Aid,UW-Oshkosh,True,Graduate,True,2018,Students of Color,155,3,3,$15K,2%,55%,86,$1M
+Non-SOC,2018-19,All Aid,UW-Oshkosh,True,Graduate,True,2018,Students of Color,1518,3,3,$13K,7%,32%,480,$6M
+SOC,2018-19,All Aid,UW-Oshkosh,True,Undergraduate,True,2018,Students of Color,2719,1,1,$11K,20%,58%,"1,574",$18M
+Non-SOC,2018-19,All Aid,UW-Oshkosh,True,Undergraduate,True,2018,Students of Color,15866,1,1,$10K,71%,41%,"6,527",$62M
+SOC,2018-19,All Aid,UW-Stevens Point,True,Graduate,True,2018,Students of Color,33,3,3,$13K,0%,64%,21,$0M
+Non-SOC,2018-19,All Aid,UW-Stevens Point,True,Graduate,True,2018,Students of Color,438,3,3,$10K,4%,62%,271,$3M
+SOC,2018-19,All Aid,UW-Stevens Point,True,Undergraduate,True,2018,Students of Color,1258,1,1,$12K,17%,78%,980,$12M
+Non-SOC,2018-19,All Aid,UW-Stevens Point,True,Undergraduate,True,2018,Students of Color,8497,1,1,$9K,79%,70%,"5,988",$56M
+SOC,2015-16,All Aid,UW-Whitewater,True,Graduate,True,2015,Students of Color,190,3,3,$17K,2%,63%,119,$2M
+Non-SOC,2015-16,All Aid,UW-Whitewater,True,Graduate,True,2015,Students of Color,1504,3,3,$12K,6%,35%,527,$7M
+SOC,2015-16,All Aid,UW-Whitewater,True,Undergraduate,True,2015,Students of Color,2117,1,1,$13K,21%,79%,"1,679",$21M
+Non-SOC,2015-16,All Aid,UW-Whitewater,True,Undergraduate,True,2015,Students of Color,10544,1,1,$10K,71%,67%,"7,021",$72M
+SOC,2018-19,All Aid,UW-Platteville,True,Graduate,True,2018,Students of Color,234,3,3,$13K,2%,44%,102,$1M
+Non-SOC,2018-19,All Aid,UW-Platteville,True,Graduate,True,2018,Students of Color,915,3,3,$10K,3%,21%,196,$2M
+SOC,2018-19,All Aid,UW-Platteville,True,Undergraduate,True,2018,Students of Color,912,1,1,$11K,12%,70%,637,$7M
+Non-SOC,2018-19,All Aid,UW-Platteville,True,Undergraduate,True,2018,Students of Color,8007,1,1,$9K,82%,66%,"5,299",$49M
+SOC,2019-20,All Aid,UW-Eau Claire,True,Graduate,True,2019,Students of Color,93,3,3,$13K,1%,34%,32,$0M
+Non-SOC,2019-20,All Aid,UW-Eau Claire,True,Graduate,True,2019,Students of Color,699,3,3,$13K,4%,36%,253,$3M
+SOC,2019-20,All Aid,UW-Eau Claire,True,Undergraduate,True,2019,Students of Color,1307,1,1,$11K,14%,76%,993,$11M
+Non-SOC,2019-20,All Aid,UW-Eau Claire,True,Undergraduate,True,2019,Students of Color,10130,1,1,$9K,81%,69%,"6,983",$63M
+SOC,2015-16,All Aid,UW-La Crosse,True,Graduate,True,2015,Students of Color,85,3,3,$15K,1%,53%,45,$1M
+Non-SOC,2015-16,All Aid,UW-La Crosse,True,Graduate,True,2015,Students of Color,1306,3,3,$15K,11%,42%,546,$8M
+SOC,2015-16,All Aid,UW-La Crosse,True,Undergraduate,True,2015,Students of Color,923,1,1,$12K,11%,80%,735,$9M
+Non-SOC,2015-16,All Aid,UW-La Crosse,True,Undergraduate,True,2015,Students of Color,9494,1,1,$9K,77%,71%,"6,714",$59M
+SOC,2017-18,All Aid,UW-Madison,True,Graduate,True,2017,Students of Color,1865,3,3,$23K,7%,81%,"1,514",$35M
+Non-SOC,2017-18,All Aid,UW-Madison,True,Graduate,True,2017,Students of Color,10665,3,3,$20K,35%,74%,"7,923",$162M
+SOC,2017-18,All Aid,UW-Madison,True,Undergraduate,True,2017,Students of Color,5772,1,1,$21K,18%,68%,"3,937",$84M
+Non-SOC,2017-18,All Aid,UW-Madison,True,Undergraduate,True,2017,Students of Color,29437,1,1,$13K,40%,49%,"14,277",$184M
+SOC,2018-19,All Aid,UW-Stout,True,Graduate,True,2018,Students of Color,179,3,3,$13K,2%,48%,86,$1M
+Non-SOC,2018-19,All Aid,UW-Stout,True,Graduate,True,2018,Students of Color,1480,3,3,$11K,8%,35%,515,$5M
+SOC,2018-19,All Aid,UW-Stout,True,Undergraduate,True,2018,Students of Color,956,1,1,$12K,14%,80%,766,$9M
+Non-SOC,2018-19,All Aid,UW-Stout,True,Undergraduate,True,2018,Students of Color,7495,1,1,$10K,76%,68%,"5,072",$50M
+SOC,2015-16,All Aid,UW-Madison,True,Graduate,True,2015,Students of Color,1698,3,3,$23K,8%,86%,"1,455",$34M
+Non-SOC,2015-16,All Aid,UW-Madison,True,Graduate,True,2015,Students of Color,10821,3,3,$20K,38%,79%,"8,533",$168M
+SOC,2015-16,All Aid,UW-Madison,True,Undergraduate,True,2015,Students of Color,5258,1,1,$20K,16%,68%,"3,597",$70M
+Non-SOC,2015-16,All Aid,UW-Madison,True,Undergraduate,True,2015,Students of Color,28872,1,1,$12K,39%,51%,"14,598",$173M
+SOC,2017-18,All Aid,UW-Green Bay,True,Graduate,True,2017,Students of Color,71,3,3,$15K,1%,54%,38,$1M
+Non-SOC,2017-18,All Aid,UW-Green Bay,True,Graduate,True,2017,Students of Color,488,3,3,$12K,5%,42%,206,$3M
+SOC,2017-18,All Aid,UW-Green Bay,True,Undergraduate,True,2017,Students of Color,1097,1,1,$12K,18%,69%,752,$9M
+Non-SOC,2017-18,All Aid,UW-Green Bay,True,Undergraduate,True,2017,Students of Color,6889,1,1,$10K,76%,55%,"3,817",$38M
+SOC,2016-17,All Aid,UW-Whitewater,True,Graduate,True,2016,Students of Color,198,3,3,$17K,2%,60%,119,$2M
+Non-SOC,2016-17,All Aid,UW-Whitewater,True,Graduate,True,2016,Students of Color,1436,3,3,$13K,6%,37%,529,$7M
+SOC,2016-17,All Aid,UW-Whitewater,True,Undergraduate,True,2016,Students of Color,2125,1,1,$13K,21%,78%,"1,664",$21M
+Non-SOC,2016-17,All Aid,UW-Whitewater,True,Undergraduate,True,2016,Students of Color,10713,1,1,$10K,71%,66%,"7,085",$73M
+SOC,2017-18,All Aid,UW-Stevens Point,True,Graduate,True,2017,Students of Color,22,3,3,$12K,0%,68%,15,$0M
+Non-SOC,2017-18,All Aid,UW-Stevens Point,True,Graduate,True,2017,Students of Color,494,3,3,$8K,3%,66%,325,$2M
+SOC,2017-18,All Aid,UW-Stevens Point,True,Undergraduate,True,2017,Students of Color,1014,1,1,$12K,16%,88%,891,$11M
+Non-SOC,2017-18,All Aid,UW-Stevens Point,True,Undergraduate,True,2017,Students of Color,7621,1,1,$10K,81%,79%,"5,998",$57M
+SOC,2017-18,All Aid,UW-Whitewater,True,Graduate,True,2017,Students of Color,241,3,3,$16K,2%,59%,141,$2M
+Non-SOC,2017-18,All Aid,UW-Whitewater,True,Graduate,True,2017,Students of Color,1484,3,3,$12K,6%,34%,499,$6M
+SOC,2017-18,All Aid,UW-Whitewater,True,Undergraduate,True,2017,Students of Color,2097,1,1,$13K,21%,80%,"1,668",$21M
+Non-SOC,2017-18,All Aid,UW-Whitewater,True,Undergraduate,True,2017,Students of Color,10391,1,1,$10K,71%,66%,"6,870",$71M
+SOC,2016-17,All Aid,UW-La Crosse,True,Graduate,True,2016,Students of Color,77,3,3,$16K,1%,51%,39,$1M
+Non-SOC,2016-17,All Aid,UW-La Crosse,True,Graduate,True,2016,Students of Color,1388,3,3,$15K,11%,38%,531,$8M
+SOC,2016-17,All Aid,UW-La Crosse,True,Undergraduate,True,2016,Students of Color,1006,1,1,$11K,11%,78%,785,$9M
+Non-SOC,2016-17,All Aid,UW-La Crosse,True,Undergraduate,True,2016,Students of Color,9499,1,1,$9K,77%,70%,"6,659",$60M
+SOC,2019-20,All Aid,UW-River Falls,True,Graduate,True,2019,Students of Color,49,3,3,$14K,1%,69%,34,$0M
+Non-SOC,2019-20,All Aid,UW-River Falls,True,Graduate,True,2019,Students of Color,441,3,3,$12K,6%,49%,214,$3M
+SOC,2019-20,All Aid,UW-River Falls,True,Undergraduate,True,2019,Students of Color,652,1,1,$10K,12%,80%,523,$5M
+Non-SOC,2019-20,All Aid,UW-River Falls,True,Undergraduate,True,2019,Students of Color,5449,1,1,$9K,81%,73%,"3,985",$36M
+SOC,2015-16,All Aid,UW-Milwaukee,True,Graduate,True,2015,Students of Color,939,3,3,$19K,4%,67%,627,$12M
+Non-SOC,2015-16,All Aid,UW-Milwaukee,True,Graduate,True,2015,Students of Color,4845,3,3,$16K,14%,47%,"2,256",$36M
+SOC,2015-16,All Aid,UW-Milwaukee,True,Undergraduate,True,2015,Students of Color,7205,1,1,$13K,28%,81%,"5,812",$74M
+Non-SOC,2015-16,All Aid,UW-Milwaukee,True,Undergraduate,True,2015,Students of Color,18870,1,1,$12K,53%,63%,"11,959",$139M
+SOC,2017-18,All Aid,UW-Platteville,True,Graduate,True,2017,Students of Color,249,3,3,$13K,3%,48%,119,$2M
+Non-SOC,2017-18,All Aid,UW-Platteville,True,Graduate,True,2017,Students of Color,975,3,3,$11K,4%,21%,204,$2M
+SOC,2017-18,All Aid,UW-Platteville,True,Undergraduate,True,2017,Students of Color,765,1,1,$12K,11%,73%,560,$7M
+Non-SOC,2017-18,All Aid,UW-Platteville,True,Undergraduate,True,2017,Students of Color,7543,1,1,$9K,83%,68%,"5,159",$49M
+SOC,2015-16,All Aid,UW-Parkside,True,Graduate,True,2015,Students of Color,34,3,3,$13K,1%,59%,20,$0M
+Non-SOC,2015-16,All Aid,UW-Parkside,True,Graduate,True,2015,Students of Color,273,3,3,$9K,1%,18%,49,$0M
+SOC,2015-16,All Aid,UW-Parkside,True,Undergraduate,True,2015,Students of Color,1447,1,1,$12K,35%,82%,"1,188",$14M
+Non-SOC,2015-16,All Aid,UW-Parkside,True,Undergraduate,True,2015,Students of Color,3561,1,1,$9K,63%,73%,"2,605",$24M
+SOC,2017-18,All Aid,UW-Stout,True,Graduate,True,2017,Students of Color,207,3,3,$13K,2%,49%,101,$1M
+Non-SOC,2017-18,All Aid,UW-Stout,True,Graduate,True,2017,Students of Color,1654,3,3,$11K,9%,35%,580,$6M
+SOC,2017-18,All Aid,UW-Stout,True,Undergraduate,True,2017,Students of Color,969,1,1,$12K,13%,82%,794,$10M
+Non-SOC,2017-18,All Aid,UW-Stout,True,Undergraduate,True,2017,Students of Color,8098,1,1,$10K,76%,69%,"5,608",$55M
+SOC,2018-19,All Aid,UW-Parkside,True,Graduate,True,2018,Students of Color,72,3,3,$13K,2%,57%,41,$1M
+Non-SOC,2018-19,All Aid,UW-Parkside,True,Graduate,True,2018,Students of Color,288,3,3,$11K,4%,50%,144,$2M
+SOC,2018-19,All Aid,UW-Parkside,True,Undergraduate,True,2018,Students of Color,1608,1,1,$11K,38%,80%,"1,290",$14M
+Non-SOC,2018-19,All Aid,UW-Parkside,True,Undergraduate,True,2018,Students of Color,3110,1,1,$9K,56%,71%,"2,208",$20M
+SOC,2015-16,All Aid,UW-Eau Claire,True,Graduate,True,2015,Students of Color,75,3,3,$12K,1%,55%,41,$0M
+Non-SOC,2015-16,All Aid,UW-Eau Claire,True,Graduate,True,2015,Students of Color,751,3,3,$13K,4%,34%,258,$3M
+SOC,2015-16,All Aid,UW-Eau Claire,True,Undergraduate,True,2015,Students of Color,1020,1,1,$12K,12%,76%,779,$9M
+Non-SOC,2015-16,All Aid,UW-Eau Claire,True,Undergraduate,True,2015,Students of Color,9938,1,1,$9K,83%,71%,"7,041",$66M
+SOC,2016-17,All Aid,UW-Eau Claire,True,Graduate,True,2016,Students of Color,75,3,3,$14K,1%,53%,40,$1M
+Non-SOC,2016-17,All Aid,UW-Eau Claire,True,Graduate,True,2016,Students of Color,817,3,3,$13K,4%,32%,262,$3M
+SOC,2016-17,All Aid,UW-Eau Claire,True,Undergraduate,True,2016,Students of Color,1058,1,1,$12K,13%,79%,836,$10M
+Non-SOC,2016-17,All Aid,UW-Eau Claire,True,Undergraduate,True,2016,Students of Color,9892,1,1,$9K,82%,70%,"6,886",$64M
+SOC,2019-20,All Aid,UW-La Crosse,True,Graduate,True,2019,Students of Color,123,3,3,$15K,2%,68%,84,$1M
+Non-SOC,2019-20,All Aid,UW-La Crosse,True,Graduate,True,2019,Students of Color,1051,3,3,$14K,12%,59%,619,$9M
+SOC,2019-20,All Aid,UW-La Crosse,True,Undergraduate,True,2019,Students of Color,1070,1,1,$11K,12%,75%,799,$9M
+Non-SOC,2019-20,All Aid,UW-La Crosse,True,Undergraduate,True,2019,Students of Color,9286,1,1,$9K,75%,67%,"6,201",$56M
+SOC,2015-16,All Aid,UW-Stout,True,Graduate,True,2015,Students of Color,173,3,3,$13K,1%,42%,73,$1M
+Non-SOC,2015-16,All Aid,UW-Stout,True,Graduate,True,2015,Students of Color,1618,3,3,$11K,8%,33%,536,$6M
+SOC,2015-16,All Aid,UW-Stout,True,Undergraduate,True,2015,Students of Color,909,1,1,$12K,12%,81%,733,$9M
+Non-SOC,2015-16,All Aid,UW-Stout,True,Undergraduate,True,2015,Students of Color,8376,1,1,$10K,79%,69%,"5,812",$57M
+SOC,2017-18,All Aid,UW-Superior,True,Graduate,True,2017,Students of Color,25,3,3,$18K,1%,72%,18,$0M
+Non-SOC,2017-18,All Aid,UW-Superior,True,Graduate,True,2017,Students of Color,274,3,3,$12K,9%,67%,184,$2M
+SOC,2017-18,All Aid,UW-Superior,True,Undergraduate,True,2017,Students of Color,306,1,1,$12K,12%,79%,242,$3M
+Non-SOC,2017-18,All Aid,UW-Superior,True,Undergraduate,True,2017,Students of Color,2562,1,1,$10K,78%,76%,"1,938",$19M
+SOC,2017-18,All Aid,UW-Eau Claire,True,Graduate,True,2017,Students of Color,85,3,3,$12K,1%,49%,42,$1M
+Non-SOC,2017-18,All Aid,UW-Eau Claire,True,Graduate,True,2017,Students of Color,803,3,3,$13K,4%,33%,266,$3M
+SOC,2017-18,All Aid,UW-Eau Claire,True,Undergraduate,True,2017,Students of Color,1091,1,1,$12K,13%,79%,862,$10M
+Non-SOC,2017-18,All Aid,UW-Eau Claire,True,Undergraduate,True,2017,Students of Color,9811,1,1,$9K,82%,70%,"6,897",$64M
+SOC,2016-17,All Aid,UW-Platteville,True,Graduate,True,2016,Students of Color,218,3,3,$12K,2%,53%,115,$1M
+Non-SOC,2016-17,All Aid,UW-Platteville,True,Graduate,True,2016,Students of Color,1070,3,3,$11K,4%,20%,216,$2M
+SOC,2016-17,All Aid,UW-Platteville,True,Undergraduate,True,2016,Students of Color,804,1,1,$12K,11%,71%,568,$7M
+Non-SOC,2016-17,All Aid,UW-Platteville,True,Undergraduate,True,2016,Students of Color,7865,1,1,$9K,83%,69%,"5,400",$51M
+SOC,2015-16,All Aid,UW-Superior,True,Graduate,True,2015,Students of Color,9,3,3,$18K,1%,78%,7,$0M
+Non-SOC,2015-16,All Aid,UW-Superior,True,Graduate,True,2015,Students of Color,156,3,3,$14K,5%,57%,89,$1M
+SOC,2015-16,All Aid,UW-Superior,True,Undergraduate,True,2015,Students of Color,314,1,1,$12K,13%,82%,258,$3M
+Non-SOC,2015-16,All Aid,UW-Superior,True,Undergraduate,True,2015,Students of Color,2552,1,1,$10K,81%,76%,"1,932",$19M
+SOC,2019-20,All Aid,UW-Stevens Point,True,Graduate,True,2019,Students of Color,54,3,3,$14K,1%,70%,38,$1M
+Non-SOC,2019-20,All Aid,UW-Stevens Point,True,Graduate,True,2019,Students of Color,595,3,3,$12K,6%,53%,318,$4M
+SOC,2019-20,All Aid,UW-Stevens Point,True,Undergraduate,True,2019,Students of Color,1088,1,1,$12K,16%,84%,916,$11M
+Non-SOC,2019-20,All Aid,UW-Stevens Point,True,Undergraduate,True,2019,Students of Color,7720,1,1,$9K,77%,76%,"5,899",$52M
+SOC,2016-17,All Aid,UW-Milwaukee,True,Graduate,True,2016,Students of Color,961,3,3,$19K,5%,71%,681,$13M
+Non-SOC,2016-17,All Aid,UW-Milwaukee,True,Graduate,True,2016,Students of Color,4725,3,3,$16K,17%,59%,"2,767",$45M
+SOC,2016-17,All Aid,UW-Milwaukee,True,Undergraduate,True,2016,Students of Color,7149,1,1,$13K,28%,79%,"5,676",$74M
+Non-SOC,2016-17,All Aid,UW-Milwaukee,True,Undergraduate,True,2016,Students of Color,17726,1,1,$12K,50%,63%,"11,221",$130M
+SOC,2019-20,All Aid,UW-Oshkosh,True,Graduate,True,2019,Students of Color,156,3,3,$15K,2%,56%,88,$1M
+Non-SOC,2019-20,All Aid,UW-Oshkosh,True,Graduate,True,2019,Students of Color,1404,3,3,$15K,9%,33%,465,$7M
+SOC,2019-20,All Aid,UW-Oshkosh,True,Undergraduate,True,2019,Students of Color,2573,1,1,$11K,21%,58%,"1,497",$17M
+Non-SOC,2019-20,All Aid,UW-Oshkosh,True,Undergraduate,True,2019,Students of Color,14428,1,1,$9K,69%,41%,"5,884",$56M
+SOC,2017-18,All Aid,UW-River Falls,True,Graduate,True,2017,Students of Color,58,3,3,$13K,1%,64%,37,$0M
+Non-SOC,2017-18,All Aid,UW-River Falls,True,Graduate,True,2017,Students of Color,497,3,3,$12K,7%,55%,271,$3M
+SOC,2017-18,All Aid,UW-River Falls,True,Undergraduate,True,2017,Students of Color,683,1,1,$10K,12%,80%,547,$6M
+Non-SOC,2017-18,All Aid,UW-River Falls,True,Undergraduate,True,2017,Students of Color,5584,1,1,$9K,80%,74%,"4,134",$38M
+SOC,2016-17,All Aid,UW-Oshkosh,True,Graduate,True,2016,Students of Color,145,3,3,$12K,1%,65%,94,$1M
+Non-SOC,2016-17,All Aid,UW-Oshkosh,True,Graduate,True,2016,Students of Color,1948,3,3,$11K,7%,27%,517,$6M
+SOC,2016-17,All Aid,UW-Oshkosh,True,Undergraduate,True,2016,Students of Color,1868,1,1,$12K,18%,68%,"1,263",$15M
+Non-SOC,2016-17,All Aid,UW-Oshkosh,True,Undergraduate,True,2016,Students of Color,12253,1,1,$10K,74%,53%,"6,472",$65M
+SOC,2015-16,All Aid,UW-Colleges (historical),True,Undergraduate,True,2015,Students of Color,3002,1,1,$7K,23%,49%,"1,466",$11M
+Non-SOC,2015-16,All Aid,UW-Colleges (historical),True,Undergraduate,True,2015,Students of Color,14533,1,1,$6K,77%,40%,"5,742",$37M
+SOC,2018-19,All Aid,UW-Superior,True,Graduate,True,2018,Students of Color,35,3,3,$12K,1%,83%,29,$0M
+Non-SOC,2018-19,All Aid,UW-Superior,True,Graduate,True,2018,Students of Color,397,3,3,$11K,11%,62%,245,$3M
+SOC,2018-19,All Aid,UW-Superior,True,Undergraduate,True,2018,Students of Color,296,1,1,$11K,10%,76%,225,$3M
+Non-SOC,2018-19,All Aid,UW-Superior,True,Undergraduate,True,2018,Students of Color,2455,1,1,$10K,77%,77%,"1,880",$18M
+SOC,2015-16,All Aid,UW-Green Bay,True,Graduate,True,2015,Students of Color,43,3,3,$20K,1%,56%,24,$0M
+Non-SOC,2015-16,All Aid,UW-Green Bay,True,Graduate,True,2015,Students of Color,407,3,3,$13K,3%,25%,100,$1M
+SOC,2015-16,All Aid,UW-Green Bay,True,Undergraduate,True,2015,Students of Color,939,1,1,$12K,17%,72%,680,$8M
+Non-SOC,2015-16,All Aid,UW-Green Bay,True,Undergraduate,True,2015,Students of Color,6791,1,1,$10K,80%,59%,"3,981",$39M
+SOC,2018-19,All Aid,UW-Milwaukee,True,Graduate,True,2018,Students of Color,1044,3,3,$19K,6%,73%,758,$14M
+Non-SOC,2018-19,All Aid,UW-Milwaukee,True,Graduate,True,2018,Students of Color,4418,3,3,$16K,17%,62%,"2,734",$44M
+SOC,2018-19,All Aid,UW-Milwaukee,True,Undergraduate,True,2018,Students of Color,7618,1,1,$12K,28%,75%,"5,717",$71M
+Non-SOC,2018-19,All Aid,UW-Milwaukee,True,Undergraduate,True,2018,Students of Color,18937,1,1,$11K,49%,59%,"11,233",$123M
+SOC,2015-16,All Aid,UW-River Falls,True,Graduate,True,2015,Students of Color,61,3,3,$13K,1%,66%,40,$1M
+Non-SOC,2015-16,All Aid,UW-River Falls,True,Graduate,True,2015,Students of Color,569,3,3,$13K,8%,47%,270,$4M
+SOC,2015-16,All Aid,UW-River Falls,True,Undergraduate,True,2015,Students of Color,597,1,1,$11K,12%,82%,487,$5M
+Non-SOC,2015-16,All Aid,UW-River Falls,True,Undergraduate,True,2015,Students of Color,5545,1,1,$9K,79%,70%,"3,872",$36M
+SOC,2015-16,All Aid,UW-Stevens Point,True,Graduate,True,2015,Students of Color,31,3,3,$20K,0%,19%,6,$0M
+Non-SOC,2015-16,All Aid,UW-Stevens Point,True,Graduate,True,2015,Students of Color,597,3,3,$16K,2%,20%,117,$2M
+SOC,2015-16,All Aid,UW-Stevens Point,True,Undergraduate,True,2015,Students of Color,1145,1,1,$12K,15%,83%,955,$12M
+Non-SOC,2015-16,All Aid,UW-Stevens Point,True,Undergraduate,True,2015,Students of Color,8599,1,1,$10K,82%,73%,"6,249",$63M
+SOC,2018-19,All Aid,UW-River Falls,True,Graduate,True,2018,Students of Color,72,3,3,$15K,1%,60%,43,$1M
+Non-SOC,2018-19,All Aid,UW-River Falls,True,Graduate,True,2018,Students of Color,518,3,3,$12K,7%,51%,264,$3M
+SOC,2018-19,All Aid,UW-River Falls,True,Undergraduate,True,2018,Students of Color,686,1,1,$10K,12%,80%,547,$5M
+Non-SOC,2018-19,All Aid,UW-River Falls,True,Undergraduate,True,2018,Students of Color,5584,1,1,$9K,80%,73%,"4,094",$37M
+SOC,2015-16,All Aid,UW-Oshkosh,True,Graduate,True,2015,Students of Color,139,3,3,$11K,1%,60%,83,$1M
+Non-SOC,2015-16,All Aid,UW-Oshkosh,True,Graduate,True,2015,Students of Color,1865,3,3,$10K,6%,27%,496,$5M
+SOC,2015-16,All Aid,UW-Oshkosh,True,Undergraduate,True,2015,Students of Color,1764,1,1,$12K,16%,69%,"1,213",$15M
+Non-SOC,2015-16,All Aid,UW-Oshkosh,True,Undergraduate,True,2015,Students of Color,12545,1,1,$10K,77%,55%,"6,917",$68M
+SOC,2019-20,All Aid,UW-Parkside,True,Graduate,True,2019,Students of Color,148,3,3,$15K,3%,52%,77,$1M
+Non-SOC,2019-20,All Aid,UW-Parkside,True,Graduate,True,2019,Students of Color,533,3,3,$12K,8%,49%,261,$3M
+SOC,2019-20,All Aid,UW-Parkside,True,Undergraduate,True,2019,Students of Color,1657,1,1,$11K,36%,77%,"1,284",$14M
+Non-SOC,2019-20,All Aid,UW-Parkside,True,Undergraduate,True,2019,Students of Color,3022,1,1,$9K,53%,73%,"2,210",$20M
+SOC,2017-18,All Aid,UW-Milwaukee,True,Graduate,True,2017,Students of Color,948,3,3,$19K,5%,73%,696,$13M
+Non-SOC,2017-18,All Aid,UW-Milwaukee,True,Graduate,True,2017,Students of Color,4520,3,3,$16K,18%,62%,"2,795",$46M
+SOC,2017-18,All Aid,UW-Milwaukee,True,Undergraduate,True,2017,Students of Color,7047,1,1,$13K,28%,79%,"5,577",$72M
+Non-SOC,2017-18,All Aid,UW-Milwaukee,True,Undergraduate,True,2017,Students of Color,16901,1,1,$12K,49%,64%,"10,824",$125M
+SOC,2016-17,All Aid,UW-Stevens Point,True,Graduate,True,2016,Students of Color,38,3,3,$13K,0%,26%,10,$0M
+Non-SOC,2016-17,All Aid,UW-Stevens Point,True,Graduate,True,2016,Students of Color,573,3,3,$16K,3%,21%,118,$2M
+SOC,2016-17,All Aid,UW-Stevens Point,True,Undergraduate,True,2016,Students of Color,1069,1,1,$13K,16%,84%,899,$12M
+Non-SOC,2016-17,All Aid,UW-Stevens Point,True,Undergraduate,True,2016,Students of Color,8032,1,1,$10K,81%,72%,"5,767",$60M
+SOC,2018-19,All Aid,UW-La Crosse,True,Graduate,True,2018,Students of Color,100,3,3,$16K,1%,62%,62,$1M
+Non-SOC,2018-19,All Aid,UW-La Crosse,True,Graduate,True,2018,Students of Color,1007,3,3,$13K,11%,61%,618,$8M
+SOC,2018-19,All Aid,UW-La Crosse,True,Undergraduate,True,2018,Students of Color,1001,1,1,$11K,12%,77%,774,$9M
+Non-SOC,2018-19,All Aid,UW-La Crosse,True,Undergraduate,True,2018,Students of Color,9416,1,1,$9K,77%,68%,"6,442",$59M
+SOC,2016-17,All Aid,UW-Parkside,True,Graduate,True,2016,Students of Color,39,3,3,$13K,1%,51%,20,$0M
+Non-SOC,2016-17,All Aid,UW-Parkside,True,Graduate,True,2016,Students of Color,247,3,3,$8K,1%,23%,58,$0M
+SOC,2016-17,All Aid,UW-Parkside,True,Undergraduate,True,2016,Students of Color,1549,1,1,$11K,38%,82%,"1,275",$14M
+Non-SOC,2016-17,All Aid,UW-Parkside,True,Undergraduate,True,2016,Students of Color,3425,1,1,$9K,60%,72%,"2,456",$23M
+SOC,2018-19,All Aid,UW-Eau Claire,True,Graduate,True,2018,Students of Color,95,3,3,$12K,1%,36%,34,$0M
+Non-SOC,2018-19,All Aid,UW-Eau Claire,True,Graduate,True,2018,Students of Color,740,3,3,$13K,4%,36%,268,$3M
+SOC,2018-19,All Aid,UW-Eau Claire,True,Undergraduate,True,2018,Students of Color,1261,1,1,$11K,14%,77%,977,$11M
+Non-SOC,2018-19,All Aid,UW-Eau Claire,True,Undergraduate,True,2018,Students of Color,10531,1,1,$9K,81%,67%,"7,084",$64M
+SOC,2019-20,All Aid,UW-Superior,True,Graduate,True,2019,Students of Color,38,3,3,$11K,1%,71%,27,$0M
+Non-SOC,2019-20,All Aid,UW-Superior,True,Graduate,True,2019,Students of Color,444,3,3,$11K,13%,60%,267,$3M
+SOC,2019-20,All Aid,UW-Superior,True,Undergraduate,True,2019,Students of Color,293,1,1,$11K,11%,78%,229,$3M
+Non-SOC,2019-20,All Aid,UW-Superior,True,Undergraduate,True,2019,Students of Color,2395,1,1,$9K,75%,76%,"1,815",$17M
+SOC,2016-17,All Aid,UW-Madison,True,Graduate,True,2016,Students of Color,1786,3,3,$22K,8%,85%,"1,524",$34M
+Non-SOC,2016-17,All Aid,UW-Madison,True,Graduate,True,2016,Students of Color,10665,3,3,$20K,37%,78%,"8,301",$165M
+SOC,2016-17,All Aid,UW-Madison,True,Undergraduate,True,2016,Students of Color,5561,1,1,$20K,17%,68%,"3,775",$77M
+Non-SOC,2016-17,All Aid,UW-Madison,True,Undergraduate,True,2016,Students of Color,29141,1,1,$12K,38%,49%,"14,184",$171M
+SOC,2016-17,All Aid,UW-Superior,True,Graduate,True,2016,Students of Color,17,3,3,$16K,1%,65%,11,$0M
+Non-SOC,2016-17,All Aid,UW-Superior,True,Graduate,True,2016,Students of Color,173,3,3,$13K,6%,60%,104,$1M
+SOC,2016-17,All Aid,UW-Superior,True,Undergraduate,True,2016,Students of Color,301,1,1,$13K,13%,79%,238,$3M
+Non-SOC,2016-17,All Aid,UW-Superior,True,Undergraduate,True,2016,Students of Color,2552,1,1,$10K,81%,77%,"1,977",$19M
+SOC,2015-16,All Aid,UW-Platteville,True,Graduate,True,2015,Students of Color,203,3,3,$13K,2%,42%,86,$1M
+Non-SOC,2015-16,All Aid,UW-Platteville,True,Graduate,True,2015,Students of Color,1142,3,3,$12K,4%,21%,240,$3M
+SOC,2015-16,All Aid,UW-Platteville,True,Undergraduate,True,2015,Students of Color,753,1,1,$12K,10%,73%,547,$6M
+Non-SOC,2015-16,All Aid,UW-Platteville,True,Undergraduate,True,2015,Students of Color,8017,1,1,$9K,83%,70%,"5,601",$52M
+SOC,2019-20,All Aid,UW-Madison,True,Graduate,True,2019,Students of Color,2076,3,3,$26K,9%,84%,"1,750",$46M
+Non-SOC,2019-20,All Aid,UW-Madison,True,Graduate,True,2019,Students of Color,10700,3,3,$21K,34%,78%,"8,385",$175M
+SOC,2019-20,All Aid,UW-Madison,True,Undergraduate,True,2019,Students of Color,6399,1,1,$23K,19%,68%,"4,333",$98M
+Non-SOC,2019-20,All Aid,UW-Madison,True,Undergraduate,True,2019,Students of Color,29778,1,1,$13K,37%,48%,"14,220",$191M
+SOC,2018-19,All Aid,UW-Madison,True,Graduate,True,2018,Students of Color,1941,3,3,$23K,8%,86%,"1,668",$39M
+Non-SOC,2018-19,All Aid,UW-Madison,True,Graduate,True,2018,Students of Color,10794,3,3,$21K,36%,78%,"8,469",$176M
+SOC,2018-19,All Aid,UW-Madison,True,Undergraduate,True,2018,Students of Color,5997,1,1,$21K,18%,69%,"4,124",$88M
+Non-SOC,2018-19,All Aid,UW-Madison,True,Undergraduate,True,2018,Students of Color,29719,1,1,$13K,38%,48%,"14,271",$184M
+SOC,2019-20,All Aid,UW-Platteville,True,Graduate,True,2019,Students of Color,246,3,3,$12K,2%,40%,98,$1M
+Non-SOC,2019-20,All Aid,UW-Platteville,True,Graduate,True,2019,Students of Color,832,3,3,$10K,4%,30%,253,$3M
+SOC,2019-20,All Aid,UW-Platteville,True,Undergraduate,True,2019,Students of Color,865,1,1,$12K,12%,69%,596,$7M
+Non-SOC,2019-20,All Aid,UW-Platteville,True,Undergraduate,True,2019,Students of Color,7461,1,1,$10K,82%,68%,"5,076",$48M
+SOC,2018-19,All Aid,UW-Green Bay,True,Graduate,True,2018,Students of Color,83,3,3,$15K,1%,63%,52,$1M
+Non-SOC,2018-19,All Aid,UW-Green Bay,True,Graduate,True,2018,Students of Color,358,3,3,$12K,3%,44%,157,$2M
+SOC,2018-19,All Aid,UW-Green Bay,True,Undergraduate,True,2018,Students of Color,1676,1,1,$11K,21%,61%,"1,028",$11M
+Non-SOC,2018-19,All Aid,UW-Green Bay,True,Undergraduate,True,2018,Students of Color,8111,1,1,$9K,74%,53%,"4,286",$40M
+SOC,2017-18,All Aid,UW-Oshkosh,True,Graduate,True,2017,Students of Color,155,3,3,$14K,2%,59%,92,$1M
+Non-SOC,2017-18,All Aid,UW-Oshkosh,True,Graduate,True,2017,Students of Color,1701,3,3,$13K,8%,29%,496,$6M
+SOC,2017-18,All Aid,UW-Oshkosh,True,Undergraduate,True,2017,Students of Color,1911,1,1,$12K,18%,66%,"1,258",$16M
+Non-SOC,2017-18,All Aid,UW-Oshkosh,True,Undergraduate,True,2017,Students of Color,12288,1,1,$10K,73%,50%,"6,154",$61M
+SOC,2016-17,All Aid,UW-Colleges (historical),True,Undergraduate,True,2016,Students of Color,2713,1,1,$7K,22%,47%,"1,262",$9M
+Non-SOC,2016-17,All Aid,UW-Colleges (historical),True,Undergraduate,True,2016,Students of Color,13234,1,1,$7K,78%,37%,"4,916",$32M
+SOC,2016-17,All Aid,UW-River Falls,True,Graduate,True,2016,Students of Color,55,3,3,$13K,1%,65%,36,$0M
+Non-SOC,2016-17,All Aid,UW-River Falls,True,Graduate,True,2016,Students of Color,518,3,3,$13K,7%,53%,272,$3M
+SOC,2016-17,All Aid,UW-River Falls,True,Undergraduate,True,2016,Students of Color,608,1,1,$11K,12%,83%,505,$5M
+Non-SOC,2016-17,All Aid,UW-River Falls,True,Undergraduate,True,2016,Students of Color,5468,1,1,$9K,80%,73%,"3,985",$37M
+SOC,2019-20,All Aid,UW-Whitewater,True,Graduate,True,2019,Students of Color,271,3,3,$15K,2%,53%,144,$2M
+Non-SOC,2019-20,All Aid,UW-Whitewater,True,Graduate,True,2019,Students of Color,1694,3,3,$13K,8%,35%,596,$8M
+SOC,2019-20,All Aid,UW-Whitewater,True,Undergraduate,True,2019,Students of Color,2226,1,1,$12K,20%,74%,"1,638",$19M
+Non-SOC,2019-20,All Aid,UW-Whitewater,True,Undergraduate,True,2019,Students of Color,10483,1,1,$10K,70%,64%,"6,702",$67M
+SOC,2016-17,All Aid,UW-Green Bay,True,Graduate,True,2016,Students of Color,58,3,3,$16K,1%,55%,32,$1M
+Non-SOC,2016-17,All Aid,UW-Green Bay,True,Graduate,True,2016,Students of Color,433,3,3,$13K,4%,32%,140,$2M
+SOC,2016-17,All Aid,UW-Green Bay,True,Undergraduate,True,2016,Students of Color,1029,1,1,$12K,17%,68%,701,$8M
+Non-SOC,2016-17,All Aid,UW-Green Bay,True,Undergraduate,True,2016,Students of Color,6904,1,1,$10K,78%,57%,"3,928",$38M
+SOC,2017-18,All Aid,UW-La Crosse,True,Graduate,True,2017,Students of Color,85,3,3,$16K,1%,58%,49,$1M
+Non-SOC,2017-18,All Aid,UW-La Crosse,True,Graduate,True,2017,Students of Color,1239,3,3,$14K,11%,49%,601,$8M
+SOC,2017-18,All Aid,UW-La Crosse,True,Undergraduate,True,2017,Students of Color,970,1,1,$11K,11%,78%,756,$9M
+Non-SOC,2017-18,All Aid,UW-La Crosse,True,Undergraduate,True,2017,Students of Color,9478,1,1,$9K,77%,69%,"6,511",$59M
+SOC,2017-18,All Aid,UW-Colleges (historical),True,Undergraduate,True,2017,Students of Color,2790,1,1,$7K,26%,47%,"1,310",$10M
+Non-SOC,2017-18,All Aid,UW-Colleges (historical),True,Undergraduate,True,2017,Students of Color,12727,1,1,$6K,74%,35%,"4,423",$27M
+SOC,2017-18,All Aid,UW-Parkside,True,Graduate,True,2017,Students of Color,32,3,3,$11K,0%,38%,12,$0M
+Non-SOC,2017-18,All Aid,UW-Parkside,True,Graduate,True,2017,Students of Color,150,3,3,$10K,2%,49%,73,$1M
+SOC,2017-18,All Aid,UW-Parkside,True,Undergraduate,True,2017,Students of Color,1556,1,1,$11K,39%,81%,"1,264",$14M
+Non-SOC,2017-18,All Aid,UW-Parkside,True,Undergraduate,True,2017,Students of Color,3215,1,1,$9K,59%,74%,"2,371",$22M
+SOC,2016-17,All Aid,UW-Stout,True,Graduate,True,2016,Students of Color,187,3,3,$12K,1%,44%,83,$1M
+Non-SOC,2016-17,All Aid,UW-Stout,True,Graduate,True,2016,Students of Color,1687,3,3,$11K,8%,33%,561,$6M
+SOC,2016-17,All Aid,UW-Stout,True,Undergraduate,True,2016,Students of Color,959,1,1,$12K,13%,82%,788,$9M
+Non-SOC,2016-17,All Aid,UW-Stout,True,Undergraduate,True,2016,Students of Color,8396,1,1,$10K,78%,69%,"5,817",$57M
+SOC,2019-20,All Aid,UW-Stout,True,Graduate,True,2019,Students of Color,172,3,3,$14K,2%,44%,76,$1M
+Non-SOC,2019-20,All Aid,UW-Stout,True,Graduate,True,2019,Students of Color,1358,3,3,$11K,8%,34%,463,$5M
+SOC,2019-20,All Aid,UW-Stout,True,Undergraduate,True,2019,Students of Color,955,1,1,$12K,14%,80%,765,$9M
+Non-SOC,2019-20,All Aid,UW-Stout,True,Undergraduate,True,2019,Students of Color,7223,1,1,$10K,76%,68%,"4,887",$48M
+SOC,2019-20,All Aid,UW-Milwaukee,True,Graduate,True,2019,Students of Color,1054,3,3,$19K,6%,73%,769,$15M
+Non-SOC,2019-20,All Aid,UW-Milwaukee,True,Graduate,True,2019,Students of Color,4338,3,3,$16K,18%,62%,"2,694",$43M
+SOC,2019-20,All Aid,UW-Milwaukee,True,Undergraduate,True,2019,Students of Color,7433,1,1,$12K,29%,76%,"5,627",$70M
+Non-SOC,2019-20,All Aid,UW-Milwaukee,True,Undergraduate,True,2019,Students of Color,17785,1,1,$11K,48%,60%,"10,652",$118M
+SOC,2019-20,All Aid,UW-Green Bay,True,Graduate,True,2019,Students of Color,102,3,3,$16K,2%,54%,55,$1M
+Non-SOC,2019-20,All Aid,UW-Green Bay,True,Graduate,True,2019,Students of Color,452,3,3,$11K,4%,44%,201,$2M
+SOC,2019-20,All Aid,UW-Green Bay,True,Undergraduate,True,2019,Students of Color,1905,1,1,$11K,24%,59%,"1,119",$12M
+Non-SOC,2019-20,All Aid,UW-Green Bay,True,Undergraduate,True,2019,Students of Color,8320,1,1,$9K,70%,49%,"4,067",$36M

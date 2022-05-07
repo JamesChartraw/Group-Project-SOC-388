@@ -1,0 +1,6 @@
+load("Gender_UW_Schools.Rdata")
+load("All_Aid_SOC_2015-2019.Rdata")
+load("All_Aid_NonURM_2015-2019.Rdata")
+load("All_Aid_URM_2015-2019.Rdata")
+load("All_Aid_URM_UWO_2015-2019.Rdata")
+load("All_Aid_NonURM_UWO_2015-2019.RData")
