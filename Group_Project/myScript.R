@@ -19,6 +19,24 @@ ggplot(data = UWO_Gender_Degrees, mapping = aes(x = Year, y = UWO_Gender_Degrees
 
 Male_Pop_Degrees <- left_join(UWO_Male_Degrees, UWO_Males)
 
-## Work in Progress! Trying to plot population of males and degrees earned by males by year.
-ggplot(data = Male_Pop_Degrees, mapping = aes(x = `UW-Oshkosh Male`, y = `Degrees Conferred`)) +
-  geom_point(aes(group = Year))
+## Create degrees conferred per year per gender
+UWO_Degrees_Enrollment <- merge(UWO_Gender_Degrees,UWO_Males, by = 'Year')
+UWO_Degrees_Enrollment <- merge(UWO_Degrees_Enrollment, UWO_Females, by = 'Year')
+
+#UWO enrollment by Gender
+ggplot(data = UWO_Degrees_Enrollment,aes(x=`Year`)) +
+  geom_line(aes(y=`UW-Oshkosh Male`, color = "Male"), size = 2) +
+  geom_line(aes(y=`UW-Oshkosh Female`, color = "Female"), size = 2) +
+  ggtitle("UWO enrollment by Gender") +
+  ylab("Number of enrollments") +
+  theme_bw() +
+  theme(legend.title = element_blank() , plot.title = element_text(size = 22))
+
+#UWO Degrees Conferred by Gender
+ggplot(data = UWO_Degrees_Enrollment, aes(x=`Year`, group = Gender)) +
+  geom_line(aes(y=`Degrees Conferred`, color = Gender),size=2) +
+  scale_x_continuous(name = "Year") +
+  ggtitle("Degrees Conferred by Gender") +
+  theme(legend.title = element_blank(), plot.title = element_text(size = 22)) +
+  theme_bw()
+  
